@@ -1,0 +1,304 @@
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.7.17)  16 JAN 2022 16:22
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**template_Article.tex
+(./template_Article.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06>
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count163
+\c@section=\count164
+\c@subsection=\count165
+\c@subsubsection=\count166
+\c@paragraph=\count167
+\c@subparagraph=\count168
+\c@figure=\count169
+\c@table=\count170
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen135
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen136
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count171
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count172
+\leftroot@=\count173
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count174
+\DOTSCASE@=\count175
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box45
+\strutbox@=\box46
+\big@size=\dimen137
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count176
+\c@MaxMatrixCols=\count177
+\dotsspace@=\muskip16
+\c@parentequation=\count178
+\dspbrk@lvl=\count179
+\tag@help=\toks16
+\row@=\count180
+\column@=\count181
+\maxfields@=\count182
+\andhelp@=\toks17
+\eqnshift@=\dimen138
+\alignsep@=\dimen139
+\tagshift@=\dimen140
+\tagwidth@=\dimen141
+\totwidth@=\dimen142
+\lineht@=\dimen143
+\@envbody=\toks18
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/listings/listings.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks20
+)
+\lst@mode=\count183
+\lst@gtempboxa=\box47
+\lst@token=\toks21
+\lst@length=\count184
+\lst@currlwidth=\dimen144
+\lst@column=\count185
+\lst@pos=\count186
+\lst@lostspace=\dimen145
+\lst@width=\dimen146
+\lst@newlines=\count187
+\lst@lineno=\count188
+\lst@maxwidth=\dimen147
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count189
+\lst@skipnumbers=\count190
+\lst@framebox=\box48
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count191
+\float@exts=\toks22
+\float@box=\box49
+\@float@everytoks=\toks23
+\@floatcapt=\box50
+) (./mcode.sty
+-- Package: `mcode' 2.7 <2015/11/11> --
+Package: mcode 2015/11/11 2.7
+ - settings optimized for display (colour formating)
+ - line numbering enabled
+ - literate programming (character replacements) enabled
+ - automatic line breaking enabled (careful, buggy!)
+ - framed listings
+(/usr/local/texlive/2020/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 225.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+\lbreakdots=\box51
+LaTeX Font Info:    Trying to load font information for TU+pcr on input line 23
+0.
+LaTeX Font Info:    No file TUpcr.fd. on input line 230.
+
+
+LaTeX Font Warning: Font shape `TU/pcr/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 230.
+
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: dvipdfmx.def on input line 105.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
+File: dvipdfmx.def 2017/06/24 v5.0g Graphics/color driver for dvipdfmx
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+\Gin@req@height=\dimen148
+\Gin@req@width=\dimen149
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.def
+File: l3backend-xdvipdfmx.def 2020-03-12 L3 backend support: xdvipdfmx
+\g__graphics_track_int=\count192
+\l__pdf_internal_box=\box52
+\g__pdf_backend_object_int=\count193
+\g__pdf_backend_annotation_int=\count194
+) (./template_Article.aux)
+\openout1 = `template_Article.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 1
+6.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+\c@lstlisting=\count195
+ [1
+
+] [2] [3]
+File: Gra_small_normal.png Graphic file (type bmp)
+<Gra_small_normal.png>
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 154--155
+ [][] 
+ []
+
+File: Gra_large_norm.png Graphic file (type bmp)
+<Gra_large_norm.png>
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 160--161
+ [][] 
+ []
+
+File: ga1_45_b85.png Graphic file (type bmp)
+<ga1_45_b85.png>
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 169--170
+ [][] 
+ []
+
+[4]
+File: ga45_b5_85.png Graphic file (type bmp)
+<ga45_b5_85.png>
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 176--177
+ [][] 
+ []
+
+[5] [6]
+File: dnt_small_normal.png Graphic file (type bmp)
+<dnt_small_normal.png>
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 286--287
+ [][] 
+ []
+
+[7]
+File: dnt_large_normal.png Graphic file (type bmp)
+<dnt_large_normal.png>
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 292--293
+ [][] 
+ []
+
+File: N.png Graphic file (type bmp)
+<N.png>
+[8] [9] [10]
+File: dampN1_small.png Graphic file (type bmp)
+<dampN1_small.png>
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 422--423
+ [][] 
+ []
+
+File: dampN1_large.png Graphic file (type bmp)
+<dampN1_large.png>
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 428--429
+ [][] 
+ []
+
+[11]
+Missing character: There is no ： in font [lmroman10-regular]:mapping=tex-text;!
+ [12] [13]
+File: dntapp2_small_normal.png Graphic file (type bmp)
+<dntapp2_small_normal.png>
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 531--532
+ [][] 
+ []
+
+File: dntapp2_large_normal.png Graphic file (type bmp)
+<dntapp2_large_normal.png>
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 537--538
+ [][] 
+ []
+
+[14] [15] (./template_Article.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3460 strings out of 479418
+ 48947 string characters out of 5884585
+ 372582 words of memory out of 5000000
+ 20941 multiletter control sequences out of 15000+600000
+ 537225 words of font info for 53 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 33i,11n,44p,492b,1551s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on template_Article.pdf (15 pages).
